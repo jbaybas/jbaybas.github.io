@@ -8,4 +8,5 @@ redirect_from:
 ---
 
 [View my CV (PDF)](/files/JamesBaybas_CV25.pdf)
-Last updated: 4/2025
+
+Last updated: June 2025
